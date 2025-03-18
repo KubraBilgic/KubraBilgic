@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock DeepSeek for Free with Just One Click!](https://medium.com/huawei-developers/unlock-deepseek-for-free-with-just-one-click-70e072e61767?source=rss-de92bb5b20a9------2)
 - [How is feedback given?](https://medium.com/huawei-developers/how-is-feedback-given-5486f28560f1?source=rss-de92bb5b20a9------2)
 - [Geri Bildirim Labirent Yolculuğuna Hazır Mısın?](https://medium.com/huawei-developers-tr/geri-bildirim-labirent-yolculu%C4%9Funa-haz%C4%B1r-m%C4%B1s%C4%B1n-a55ae0bcdfa8?source=rss-de92bb5b20a9------2)
 - [Huawei Türkiye &amp; Habitat Derneği Afet Yönetimi Teknolojileri Fikir Maratonu Nasıl Geçti?](https://medium.com/huawei-developers-tr/huawei-t%C3%BCrkiye-habitat-derne%C4%9Fi-afet-y%C3%B6netimi-teknolojileri-fikir-maratonu-nas%C4%B1l-ge%C3%A7ti-c36459500ea2?source=rss-de92bb5b20a9------2)
 - [Why are Ice Breaker games necessary in communities?](https://medium.com/huawei-developers/why-are-ice-breaker-games-necessary-in-communities-5a44cbcd6a6f?source=rss-de92bb5b20a9------2)
-- [Neden topluluklarda Ice Breaker oyunlara ihtiyaç vardır?](https://medium.com/huawei-developers-tr/neden-topluluklarda-ice-breaking-oyunlar-c07008a4776d?source=rss-de92bb5b20a9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
